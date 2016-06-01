@@ -3,6 +3,7 @@
 A drop-in library for adding separators in `UIStackView`.
 
 ## Screenshot
+![](https://github.com/unixzii/CVStackViewSeparator/raw/master/Images/screenshot.png)
 
 ## Features
 * Super easy to use, no need any subclassing, it's just a extension for native `UIStackView`.
